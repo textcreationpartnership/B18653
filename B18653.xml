@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of the Company of Glass-sellers in London, and all others selling glasses or earthen wares, in any city, burrough, town-corporate, or market-town in England and Wales, in relation to the bill for suppressing of hawkers, pedlers, &amp;c. Humbly offered to the consideration of both the honourable Houses of Parliament.</title>
+            <author>Company of Glass Sellers (London, England)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18653</idno>
+            <idno type="STC">Wing C1048</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.12[119]</idno>
+            <idno type="STC">ESTC R220810</idno>
+            <idno type="EEBO-CITATION">99885132</idno>
+            <idno type="PROQUEST">ocm99885132</idno>
+            <idno type="VID">190270</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B18653)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 190270)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C19:1[119])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of the Company of Glass-sellers in London, and all others selling glasses or earthen wares, in any city, burrough, town-corporate, or market-town in England and Wales, in relation to the bill for suppressing of hawkers, pedlers, &amp;c. Humbly offered to the consideration of both the honourable Houses of Parliament.</title>
+                  <author>Company of Glass Sellers (London, England)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1697?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>With marginal notes.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Peddlers and peddling --  England --  Early works to 1800.</term>
+               <term>Rogues and vagabonds --  Early works to 1800.</term>
+               <term>Glass trade --  England --  Early works to 1800.</term>
+               <term>Pottery, English --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:190270:1" rendition="simple:additions"/>
+            <head>The CASE of the Company of <hi>Glaſs-ſellers</hi> in <hi>London,</hi> and all others ſelling Glaſſes or Earthen Wares, in any City, Burrough, Town-Corporate, or Market-Town in <hi>England</hi> and <hi>Wales,</hi> in relation to the Bill for ſuppreſſing of <hi>Hawkers, Pedlers,</hi> &amp;c.</head>
+            <head>Humbly offered to the Conſideration of both the Honourable Houſes of Parliament.</head>
+            <p>ALL Pedlers and petty Chapmen, wandring abroad,
+<note place="margin">39 <hi>Eliz. Ch.</hi> 4.</note> are adjudged Rogues and Vagabonds, with a Proviſo for Glaſs-Men, licenſed to travel in the Countries only.</p>
+            <p>Whereas in the Statute of 39.
+<note place="margin">1 <hi>Jacob. Ch.</hi> 7.</note> 
+               <hi>Eliz.</hi> There was a Proviſo, That the ſaid Statute ſhould not extend to ſuch Glaſs, Men as were of good behaviour, and ſhould travel through any County without begging, having Licenſe from three Juſtices of the ſaid County where they travel.
+<note place="margin">Said Proviſo re<g ref="char:EOLhyphen"/>pealed, and Glaſs-men made Rogues.</note> By reaſon of which Liberty, many notorious Rogues and Vagabonds, and evil diſpoſed Perſons have undertaken, and do profeſs the Trade of Glaſs-Men, and by colour thereof, do travel up and down divers Counties of this Realm, and do commit many Pickeries, petty Felonies, and other Miſdemeanors. For the avoiding of which inconveniency, Be it Enacted, <hi>&amp;c.</hi> That all ſuch Perſons that ſhall wander up and down to ſell Glaſſes, ſhall be adjudged, deemed, and taken as Rogues and Vagabonds, and ſhall ſuffer the like pain and puniſhment in every degree, as by the ſame 39 of <hi>Eliz.</hi> is ap<g ref="char:EOLhyphen"/>pointed, and is further provided in this Statute.</p>
+            <p>In the Act for the Poor,
+<note place="margin">
+                  <p>14 <hi>Car.</hi> 2. <hi>Ch.</hi> 2. <hi>The</hi> 39 <hi>Eliz. and</hi> 1 <hi>Jacob. re<g ref="char:EOLhyphen"/>inforc'd; But the Reward made ſo ſmall, have never been executed.</hi>
+                  </p>
+                  <p>
+                     <hi>His M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>jeſties order in the Glaſs-ſellers Charter.</hi>
+                  </p>
+                  <p>
+                     <hi>To ſuppreſs Hawkers of Glaſ<g ref="char:EOLhyphen"/>ſes,</hi> &amp;c. <hi>within the limits of their Corporation.</hi>
+                  </p>
+                  <p>
+                     <hi>In their By-Laws ſigned by the Judges.</hi>
+                  </p>
+               </note> It is Enacted, That whereas thoſe good Laws have not been put in execution, for want of encouragement to ſuch as ſhould apprehend Rogues; That every Perſon that ſhall hereafter apprehend a Rogue, ſhall receive of any Conſtable, through whoſe Pariſh he had paſſed unapprehended, for every Rogue two ſhillings, which, if any Conſtable ſhall refuſe to pay, the Juſtice of Peace ſhall proceed againſt the Conſtable, according to the Statutes of 39 <hi>Eliz.</hi> and 1 <hi>Jacob.</hi> Which is, for his neglect of apprehending a Rogue, twenty ſhillings; out of which money, the Conſtable or other Perſon that hath apprehended the Rogue, is to be paid two ſhillings, and alſo to be ſatisfied for his loſs of time.</p>
+            <p>Our further Will and Pleaſure is, and We do hereby ſtraitly charge and command, That no Perſon or Perſons whatſoever, which by the Statute made in the firſt year of the Reign of our late Royal Grandfather King <hi>James,</hi> or any other Law of this our Realm, are prohibited to carry Glaſſes or Earthen Wares to ſell, do at any time hereafter preſume to wander up and down to ſell Glaſſes or Earthen Wares; or to act, or do any thing contrary to theſe Statutes upon the pains and penalties therein declared, and ſuch other puniſhment as can or may be inflicted upon ſuch Offenders, according to the Laws of this Realm: And We will and ſtraitly com<g ref="char:EOLhyphen"/>mand, that the Maſters and Wardens, <hi>&amp;c.</hi> of the Company of Glaſs-Sellers of <hi>London,</hi> do from time to time take care, that at all times hereafter, The ſaid Statutes be put in full execution upon all ſuch Offenders, as ſhall preſume to wander up and down to ſell Glaſſes or Earthen Wares in our City of <hi>London,</hi> or within ſeven miles thereof. And his Majeſty commands all Mayors, Bayliffs, Juſtices, Conſtables, and other Officers, to be aiding and aſſiſting the ſaid Company of Glaſs-Sellers therein.</p>
+            <p>It is Ordered, That every Member of the Corporation of Glaſs-Sellers, ſhall uſe his utmoſt care and endeavour to diſcover all ſuch Perſons as ſhall wander up and down to ſell any Glaſſes or Earthen Wares, and as often as he ſhall diſcover any ſuch, immediately to give notice thereof to the next Conſtable or other Officer, to the intent they may be puniſhed according to the Statutes of 39 of <hi>Eliz.</hi> or the 1 of King <hi>James,</hi> or any other Statute of this Realm made to puniſh Pedlers, and Petty Chapmen <hi>&amp;c.</hi> And every Mem<g ref="char:EOLhyphen"/>ber of this Company neglecting his duty herein, is to forfeit for every Offence five ſhillings.</p>
+            <p>Upon all which Laws and Orders,
+<note place="margin">The Glaſs-ſel<g ref="char:EOLhyphen"/>lers endeavours to ſuppreſs them.</note> and in diſcharge of their duty therein, the ſaid Company of Glaſs-Sellers have been at very great trouble and expence for many years, to ſuppreſs theſe wandring Glaſs-Men; and although ſome have been whipt and impriſoned for their Offences, they ſtill abound more than ever, they being a ſturdy incorrigible ſort of People, who regard not ſuch corporal puniſhment.</p>
+            <p>Provided alſo,
+<note place="margin">Proviſo in the Patent granted for licenſing of Pedlers and Pet<g ref="char:EOLhyphen"/>ty Chapmen.</note> That this our ſaid Commiſſion, nor any thing therein contained, ſhall not extend to impower our ſaid Commiſſi<g ref="char:EOLhyphen"/>oners to give or grant Licenſe or Priviledg to any Perſon or Perſons whatſoever, to travel or wander up and down to ſell any ſort of Glaſſes, or Earthen or Gally Ware, contrary to the Statute of the 39 of <hi>Eliz.</hi> or the 1 of King <hi>James,</hi> or of any other Laws or Statutes of this our Realm in that Caſe made and provided.</p>
+            <p>There is in and about <hi>London</hi> near an hundred Glaſs-Sellers, many of which, by reaſon of the Bulkineſs of their Commodities, are conſtrained to exerciſe their Trades in houſes of near 100 pound <hi>per Annum,</hi> and it is believed pay more Scot and Lot, and bear more publick Offices in one year, than all the Pedlers and Petty Chap-men in <hi>England</hi> do in ſeven; who yet many of them are almoſt undone already,
+<note place="margin">Reaſons why theſe perſons ſhould be ſup<g ref="char:EOLhyphen"/>preſſed.</note> by reaſon of the multitudes of theſe wandring Glaſs-Men all <hi>England</hi> over, who now go about, not only with Bask<g ref="char:EOLhyphen"/>ets and Crates, but alſo with Horſes and Aſſes laden with all ſorts of Glaſſes and Earthen Wares, which, if not timely reſtrained, the ſaid Shop-keepers will be utterly diſabled to pay their Rents, or maintain their Families, but muſt be conſtrained to leave their Shops, and betake themſelves to the like practice of ſending their Wares abroad.</p>
+            <p>There is no need of ſuch people to wander abroad to ſupply the Countries with theſe Commodities; Glaſſes and Earthen Wares being ſold by Shop-keepers in all Market Towns, and almoſt in all Villages in <hi>England,</hi> and would be much more in Cities, Burroughs, Towns-Corporate, if theſe People were ſuppreſſed. Which Shop-keepers are forced, by reaſon of the Bulkineſs and Brittlenſs of theſe Wares, to take greater Houſes, and pay greater Rents than otherwiſe they need to do, and pay all publick Taxes, and Pariſh Rates and Duties.</p>
+            <p>Theſe Hawkers of Glaſſes and Earthen Wares do generally carry abroad, and cheat the Gentry and others with very imperfect and deceitful Wares, as with Earthen Wares not fully burnt, which will crack, and the white peel off, when wet and uſed, and Glaſſes not well nealed, but crackt and faulty, which defects are not eaſily diſcerned, unleſs by Perſons of judgment in thoſe commodities, and ſell only ſuch Ill-made Wares as Shop-keepers cannot put off.</p>
+            <p>They are grown ſo inſolent, that they frequently offer their Wares to the Shop-keepers Cuſtomers at their Shop-doors; nay, even in their houſes, and will call their Cuſtomers out of their Shops, and ſell them Ware before their faces, of which there can ſeveral In<g ref="char:EOLhyphen"/>ſtances be given.</p>
+            <p>They very often corrupt Mens Servants where they come, and tempt them to ſteal their Maſters Proviſions to truck with them for ſuch things as they have a mind to, or occaſion for.</p>
+            <p>It will be in vain to prohibit the carrying abroad of Linnen Cloath, or other Wares, if theſe wandering Glaſs-Men are not ſuppreſſed; for Glaſſes being a light Commodity, they will carry any other commodities covered in the Straw, in which Glaſſes and Earthen Wares are always packt.</p>
+            <p>It is therefore moſt Humbly prayed, on the behalf of all the Glaſs-Sellers in <hi>London, Weſtminſter, Sou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> wark,</hi> and all other Cities, Burroughs, Towns Corporate, and Market Towns, at leaſt in <hi>England</hi> and <hi>Wales,</hi> that a Proviſo may be added to the Bill now de<g ref="char:EOLhyphen"/>pending againſt <hi>Pedlers,</hi> To prohibit all <hi>Hawkers</hi> of Glaſſes or Earthen Wares from Travelling, or wandring, or going about in any City, Burrough, Town-Corporate, or Market-Town in <hi>England</hi> or <hi>Wales</hi> with Crates, Baskets, or otherwiſe, to ſell, offer, or Barter any Glaſſes or Earthen Wares, upon pain of ſuffering the ſame penalties inflicted by the Act upon other <hi>Pedlers</hi> and petty Chapmen, to be recovered in like manner, and for the ſame uſes, that other penalties Inflicted upon other <hi>Pedlers</hi> and petty Chap<g ref="char:EOLhyphen"/>men are to be recovered and imployed.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
